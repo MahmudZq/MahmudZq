@@ -25,6 +25,4 @@
 </p>
 
 <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudZq&langs_count=8&theme=vue" alt=MahmudZq />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudZq&theme=vue" height="180em" />
 </div>
